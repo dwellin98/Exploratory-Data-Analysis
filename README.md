@@ -1,4 +1,2 @@
 # Exploratory-Data-Analysis
-![alt text|](images/PokemonEDA1.JPG)
-![alt text](images/PokemonEDA2.JPG) 
-![alt text](images/PokemonEDA3.JPG) 
+<img src="" width=50% height=50%>
