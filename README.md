@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-![alt text](/Data-Science/images/PokemonEDA1.JPG)
+![alt text](images/PokemonEDA1.JPG)
