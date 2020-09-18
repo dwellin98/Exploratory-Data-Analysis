@@ -8,6 +8,8 @@
 
 ### Hotel Booking Exploratory Analysis
 <img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/Popular By Country.JPG" width=50% height=50%>
+<img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/Boxplot Special.JPG" width=50% height=50%>
+
 
 
 
