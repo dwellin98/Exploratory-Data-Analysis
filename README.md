@@ -4,10 +4,10 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA1.JPG" width=100% height=50%>
-    <td valign="top"><img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA2.JPG" width=100% height=50%>
+    <td valign="top"><img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA2.JPG" width=100% height=40%>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA3.JPG" width=50% height=50%>
+    <td valign="top"><img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA3.JPG" width=100% height=50%>
   </tr>
  </table
 <img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA1.JPG" width=50% height=50%>
