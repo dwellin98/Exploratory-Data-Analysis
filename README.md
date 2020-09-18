@@ -1,13 +1,9 @@
 # Exploratory-Data-Analysis
 
 ### Pokemon Exploratory Analysis
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA1.JPG" width=50% height=50%>
-  </div>
- <div class="column">
-  <img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA2.JPG" width=50% height=50%>
- </div>
+
+<img align="left" src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA1.JPG" width=50% height=50%>
+<img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA2.JPG" width=50% height=50%>
 <img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA3.JPG" width=50% height=50%>
 
 
