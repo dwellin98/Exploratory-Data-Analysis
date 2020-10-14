@@ -1,6 +1,8 @@
 # Exploratory-Data-Analysis
 
 ### Pokemon Exploratory Analysis
+What I like most about data visualisation is being able to use colour shape and form to tell a story as convention or unconventional it can be.
+
 <table>
   <tr>
     <td valign="top"><img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA1.JPG" width=100% height=50%>
