@@ -12,6 +12,7 @@ What I like most about data visualisation is being able to use colour shape and 
     <td valign="top"><img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA3.JPG" width=100% height=50%>
   </tr>
  </table>
+ #### Data description
 
 
 ### Hotel Booking Exploratory Analysis
