@@ -15,7 +15,7 @@ What I like most about data visualisation is being able to use colour shape and 
  * HP,	Attack,	Defense,	Sp.Atk,	Sp.Def,	Speed
   ` - These are numerical features each feature varies by each Pokemon and are use to describe the Pokemon psyhical abilities.
  * Generation
-    - This describes what release/ group of Pokemon it belongs to. The categorical data describes how new to old the Pokemon is. 1= Older 6 = Newer.
+    -  This describes what release/ group of Pokemon it belongs to. The categorical data describes how new to old the Pokemon is. 1= Older 6 = Newer.
  * Legendary
     - This boolean categorical feature denotes whether the Pokemon if Legendary or not. Typically legemdaru Pokemon are rarer.
 
