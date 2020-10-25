@@ -13,7 +13,7 @@ What I like most about data visualisation is being able to use colour shape and 
  * Type 2:
     - Second type of Pokemon not all Pokemon have two types similarly to Type 1 this is categorical data. Data type = string.
  * HP,	Attack,	Defense,	Sp.Atk,	Sp.Def,	Speed
-  ` - These are numerical features each feature varies by each Pokemon and are use to describe the Pokemon psyhical abilities.
+    - These are numerical features each feature varies by each Pokemon and are use to describe the Pokemon psyhical abilities.
  * Generation
     - This describes what release/ group of Pokemon it belongs to. The categorical data describes how new to old the Pokemon is. 1= Older 6 = Newer.
  * Legendary
